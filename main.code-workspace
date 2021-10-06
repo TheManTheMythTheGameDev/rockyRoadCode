@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"raylib.h": "c",
+			"math.h": "c",
+			"blocks.h": "c",
+			"stdio.h": "c",
+			"*.m": "c",
+			"fpcamera.h": "c",
+			"rlpbr.h": "c",
+			"stdlib.h": "c",
+			"raygui.h": "c",
+			"cmath": "c"
+		}
+	}
+}
